@@ -1,2 +1,2 @@
-# Accelerated_C-
+# Accelerated_C++
 my note for C++
